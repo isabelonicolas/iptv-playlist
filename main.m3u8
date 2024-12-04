@@ -3,6 +3,9 @@ v#EXTM3U
 #EXTINF:-1,ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8  
 
+#EXTINF:-1,NBC Sacramento
+https://apollo.production-public.tubi.io/live/ac-kcra.m3u8
+
 #EXTINF:-1,Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
